@@ -1,0 +1,7 @@
+{
+  "name": "polymer_01",
+  "short_name": "polymer_01",
+  "description": "Learn polymer 2.0",
+  "start_url": "/",
+  "display": "standalone"
+}
